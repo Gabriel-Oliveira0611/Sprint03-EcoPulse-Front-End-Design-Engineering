@@ -1,6 +1,6 @@
-import TituloPagina from "../components/TituloPagina";
-import CardRecurso from "../components/CardRecurso";
-import BotaoLink from "../components/BotaoLink";
+import TituloPagina from "../../components/TituloPagina";
+import CardRecurso from "../../components/CardRecurso";
+import BotaoLink from "../../components/BotaoLink";
 
 export default function Sobre() {
   return (

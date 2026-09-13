@@ -1,6 +1,6 @@
-import BotaoLink from "../components/BotaoLink";
-import CardSolucao from "../components/CardSolucao";
-import { solucoes } from "../data/solucoes";
+import BotaoLink from "../../components/BotaoLink";
+import CardSolucao from "../../components/CardSolucao";
+import { solucoes } from "../../data/solucoes";
 
 export default function Home() {
   return (
