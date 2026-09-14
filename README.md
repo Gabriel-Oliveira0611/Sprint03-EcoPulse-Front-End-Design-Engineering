@@ -1,8 +1,6 @@
 # EcoPulse | React, TypeScript e Vite
 
-Migração didática do site EcoPulse para React. Mantém as sete páginas, a proposta de sustentabilidade, as imagens e os vídeos do repositório original. A equipe tem cinco integrantes, incluindo Kauã Barros Ferreira.
-
-**Atenção: esta é a versão limitada ao conteúdo confirmado como estudado. Não atende integralmente à rubrica da Sprint 3, porque não inclui hooks, rotas com parâmetros ou React Hook Form.** Leia [Pendências do Challenge](docs/REQUISITOS.md) antes de entregar.
+Migração didática do site EcoPulse para React.
 
 ![Identidade do EcoPulse](public/images/hero-background.jpg)
 
@@ -116,7 +114,6 @@ Origem das imagens, dos vídeos e do conteúdo: [repositório EcoPulse original]
 ## Links e comandos
 
 - [Repositório original do GitHub](https://github.com/Gabriel-Oliveira0611/Challenge01-Front-end-design-engineering). A migração deste pacote ainda não foi enviada ao GitHub.
-- Vídeo de apresentação no YouTube: **pendente de gravação e publicação pela equipe**. Os dois vídeos do Souly não substituem esse vídeo de apresentação.
 - Deploy: não realizado. A Sprint 4 pede publicação na Vercel; esta versão serve para execução local.
 
 ```bash
