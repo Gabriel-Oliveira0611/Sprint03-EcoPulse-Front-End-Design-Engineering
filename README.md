@@ -105,15 +105,13 @@ Dados dos quatro integrantes originais preservados do repositório, com a inclus
 
 | Foto                                                           | Nome                        | RM               | Turma       | Perfis                                                                                                                  |
 | -------------------------------------------------------------- | --------------------------- | ---------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------- |
-| <img src="public/images/gabriel.jpg" width="64" alt="Gabriel"> | Gabriel Pereira de Oliveira | 572262           | A confirmar | [GitHub](https://github.com/Gabriel-Oliveira0611) · [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-1aa4bb224/)  |
-| <img src="public/images/adalto.jpg" width="64" alt="Adalto">   | Adalto Massahiro Nagabe     | 572298 — conferir | A confirmar | [GitHub](https://github.com/AdaltoNagabe) · [LinkedIn](https://www.linkedin.com/in/adalto-massashiro-nagabe-149685104/) |
-| <img src="public/images/pedro.jpg" width="64" alt="Pedro">     | Pedro Henrique Carvalho     | 570492           | A confirmar | [GitHub](https://github.com/pedrohcnascimento) · [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/)             |
-| <img src="public/images/murillo.jpg" width="64" alt="Murillo"> | Murillo Siviero Lopes       | 572724           | A confirmar | [GitHub](https://github.com/MurilloSLopes) · [LinkedIn](https://www.linkedin.com/in/murillo-llopes-23out99/)            |
-| <img src="public/images/kaua.jpg" width="64" alt="Kauã"> | Kauã Barros Ferreira | 571801 | A confirmar | [GitHub](https://github.com/KauaBF) · [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-barros-ferreira-161a3a36b/) |
+| <img src="public/images/gabriel.jpg" width="64" alt="Gabriel"> | Gabriel Pereira de Oliveira | 572262           | 1TDSPW | [GitHub](https://github.com/Gabriel-Oliveira0611) · [LinkedIn](https://www.linkedin.com/in/gabriel-pereira-1aa4bb224/)  |
+| <img src="public/images/adalto.jpg" width="64" alt="Adalto">   | Adalto Massahiro Nagabe     | 572298 — conferir | 1TDSPW | [GitHub](https://github.com/AdaltoNagabe) · [LinkedIn](https://www.linkedin.com/in/adalto-massashiro-nagabe-149685104/) |
+| <img src="public/images/pedro.jpg" width="64" alt="Pedro">     | Pedro Henrique Carvalho     | 570492           | 1TDSPW | [GitHub](https://github.com/pedrohcnascimento) · [LinkedIn](https://www.linkedin.com/in/pedrohenriquecn07/)             |
+| <img src="public/images/murillo.jpg" width="64" alt="Murillo"> | Murillo Siviero Lopes       | 572724           | 1TDSPW | [GitHub](https://github.com/MurilloSLopes) · [LinkedIn](https://www.linkedin.com/in/murillo-llopes-23out99/)            |
+| <img src="public/images/kaua.jpg" width="64" alt="Kauã"> | Kauã Barros Ferreira | 571801 | 1TDSPW | [GitHub](https://github.com/KauaBF) · [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-barros-ferreira-161a3a36b/) |
 
 Origem das imagens, dos vídeos e do conteúdo: [repositório EcoPulse original](https://github.com/Gabriel-Oliveira0611/Challenge01-Front-end-design-engineering), commit `97088656fd21eefc568244ad59b647cd528ad590`.
-
-Migração preparada com auxílio do ChatGPT a pedido de Gabriel. Os integrantes devem revisar, compreender e adaptar o código; não atribuir automaticamente a si mesmos etapas que não realizaram.
 
 ## Links e comandos
 
