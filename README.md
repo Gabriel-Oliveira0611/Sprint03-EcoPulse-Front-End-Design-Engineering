@@ -113,7 +113,8 @@ Origem das imagens, dos vídeos e do conteúdo: [repositório EcoPulse original]
 
 ## Links e comandos
 
-- [Repositório original do GitHub](https://github.com/Gabriel-Oliveira0611/Challenge01-Front-end-design-engineering). A migração deste pacote ainda não foi enviada ao GitHub.
+- [Repositório original do GitHub](https://github.com/Gabriel-Oliveira0611/Challenge01-Front-end-design-engineering).
+- [Link do repositório atual:](https://github.com/Gabriel-Oliveira0611/Sprint03-EcoPulse-Front-End-Design-Engineering)
 - Deploy: não realizado. A Sprint 4 pede publicação na Vercel; esta versão serve para execução local.
 
 ```bash
